@@ -1,3 +1,3 @@
 # Multi-Firewall-Implementations
 
-acket Filtering, Stateful and ML based Firewalls
+Packet Filtering, Stateful and ML based Firewalls
